@@ -6,7 +6,24 @@ In this project, working in teams, you will implement, evaluate and compare algo
 Challenge
 Machine Learning Fairness refers to correcting the unfairness for certain groups or individuals in machine learning algorithms' predictions.
 
+<<<<<<< Updated upstream
 For this project, each team is assigned specific algorithms from the Machine Learning Fairness literature. You will study the algorithms carefully and implement them, from scratch. Algorithm assignments will be posted to a piazza post.
+=======
++ Team #9
++ Project title: Comparison between two algorithms in the field of machine learning fairness
++ Team members
+	+ Chen Chen
+	+ Donglai Xu
+	+ Kartik Kotian
+	+ Tomasz Wislicki
++ Project summary: We compared two algorithms, Fairness-aware Classifier with Prejudice Remover Regularizer and Handling Conditional Discrimination, to see which one gives fairer decisions on a given dataset.
+	
+**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
++ Chen constructed a classifier with prejudice remover regularizer model and worked on the presentation slides.
++ Tomasz wrote his own preprocessing and baseline routine with prejudice remover model, which he went through with Chen to compare results and standardize code with the best output, as well as worked on formatting the slides and the readme descriptions 
++ Donglai wrote the preprocess codes and construct A6 with Kartik Kotian. Worked on the presentation slides and do the presentation.
++ Kartik worked on A6 model and model comparision plots.
+>>>>>>> Stashed changes
 
 For submission, you will submit the GitHub repo of your codes, a testing report (must be a reproducible R/Python notebook) on the algorithms in terms of a side-by-side comparison of their performance and computational efficiency.
 
